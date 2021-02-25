@@ -2,7 +2,7 @@
 
 require_relative '../lib/tic_tac_toe'
 
-board = ["X", "O", "O", "O", "X", "O", "X", "O", " "]
+board = ["X", "O", "O", "O", "O", "X", "X", "O", " "]
 
 puts "Welcome to Tic Tac Toe!"
 display_board(board)
